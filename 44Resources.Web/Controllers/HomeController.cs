@@ -10,6 +10,7 @@ namespace _44Resources.Web.Controllers
     {
         public ActionResult Index()
         {
+            //Default controller
             return View();
         }
 
