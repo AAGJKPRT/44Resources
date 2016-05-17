@@ -10,7 +10,7 @@ namespace _44Resources.Web.Controllers
     {
         public ActionResult Index()
         {
-            //Default controller
+            //Default controller...
             return View();
         }
 
